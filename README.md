@@ -1,4 +1,4 @@
 # Glacstar
-Hi I am an up and coming java developper.
-This is for my personal projects.
-My native lenguage i not english so be kind, please.
+Hi I am an up-and-coming java developer.
+This account is for my personal projects.
+My native language is not english so be kind, please.
